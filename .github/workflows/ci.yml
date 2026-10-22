@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ahmednahri2004/gestion-el-hallaoui:latest
+          tags: ahmednahri2004/gestion-el-hallaoui-devops:latest
